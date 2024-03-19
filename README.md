@@ -8,7 +8,7 @@
     - vscode -> Dracula Official, Material Icon Theme
 
 # Estrutura de pastas do projeto MVC
-## OBS: Iremos criar as pastas conforme o projeto vai avançando.
+    - OBS: Iremos criar as pastas conforme o projeto vai avançando.
     - Views, Config
     - Views -> Iremos colocar todas as telas dentro dela.
     - Config -> Todos os arquivos de configuração do projeto irá ficar dentro dela.
