@@ -7,18 +7,18 @@
 ## Opcional 
     - vscode -> Dracula Official, Material Icon Theme
 
-#Estrutura de pastas do projeto MVC
-##OBS: Iremos criar as pastas conforme o projeto vai avançando.
+# Estrutura de pastas do projeto MVC
+## OBS: Iremos criar as pastas conforme o projeto vai avançando.
     - Views, Config
     - Views -> Iremos colocar todas as telas dentro dela.
     - Config -> Todos os arquivos de configuração do projeto irá ficar dentro dela.
 
 
-#Passo a passo
+# Passo a passo
  - 1° - Criar uma tela de cadastro de produto, para prencher as informações de nome e valor unitário.
  - 2° - Criar uma tela que list esses dados.
 
-#Tags que você irá usar:
+# Tags que você irá usar:
    - form
    - label
    - input
