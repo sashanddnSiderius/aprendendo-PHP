@@ -1,11 +1,11 @@
 # Criando projeto web do zero com php, mysql
 
-#Requesitos
-    xampp -> https://www.youtube.com/watch?v=R2HrwSQ6EPM
-    vscode -> Auto Rename Tag, Path Intellisense, Prettier - Code formatter
+## Requesitos
+    - xampp -> https://www.youtube.com/watch?v=R2HrwSQ6EPM
+    - vscode -> Auto Rename Tag, Path Intellisense, Prettier - Code formatter
     
-#Opcional 
-    vscode -> Dracula Official, Material Icon Theme
+## Opcional 
+    - vscode -> Dracula Official, Material Icon Theme
 
 #Estrutura de pastas do projeto MVC
 ##OBS: Iremos criar as pastas conforme o projeto vai avançando.
