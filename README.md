@@ -20,7 +20,8 @@
 
 #Tags que você irá usar:
    - form action="#" method="POST": Essa tag define um formulário HTML que é usado para coletar dados do usuário. Ela envolve os elementos de entrada, como <input>, <select>, <textarea>, etc., que serão submetidos ao servidor para processamento. O atributo action especifica para onde os dados do formulário serão enviados, e o atributo method define o método HTTP a ser usado (geralmente POST ou GET).
-    - <label>: Essa tag define uma etiqueta de texto descritiva para um elemento de entrada em um formulário. Ela está associada a um elemento de entrada usando o atributo for, que deve ter o mesmo valor do atributo id do elemento de entrada correspondente. Isso permite que o usuário clique no rótulo para focar ou selecionar o elemento de entrada associado.
+ 
+ - <label>: Essa tag define uma etiqueta de texto descritiva para um elemento de entrada em um formulário. Ela está associada a um elemento de entrada usando o atributo for, que deve ter o mesmo valor do atributo id do elemento de entrada correspondente. Isso permite que o usuário clique no rótulo para focar ou selecionar o elemento de entrada associado.
     - <input>: Essa tag é usada para criar um campo de entrada em um formulário. Ela pode ter diferentes tipos, como text, number, email, checkbox, radio, entre outros. O atributo name define o nome do campo, que será usado para identificar o valor do campo quando o formulário for submetido.
     - <button>: Essa tag cria um botão clicável em um formulário ou em qualquer parte da página. Ela pode ser usada para enviar um formulário (usando o atributo type="submit"), executar um script JavaScript (usando o atributo onclick), ou realizar outras ações interativas.
     - <table>: Essa tag é usada para criar uma tabela HTML. Ela envolve as linhas e as células da tabela e é usada para exibir dados tabulares. As tabelas são compostas por <tr> (linhas) e <td> (células).
